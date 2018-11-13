@@ -1,0 +1,1 @@
+Some automata implemented while learning rust.
